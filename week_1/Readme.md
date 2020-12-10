@@ -23,6 +23,8 @@
 
 # Assignment no. 2 (Test Record)
     
+    ![Test Record Program](https://user-images.githubusercontent.com/75375280/101760713-0af69080-3afd-11eb-9692-8fb7d2ee3a13.png)
+
     1) First I created two different lists, namely list_of_records and marks_record.
     2) Then I created a while loop, here's what it contains:
             i) I created six variables inside the while loop which took output from user.
