@@ -7,7 +7,10 @@
 # Date: 9/12/2020 Wednesday
 
 # Assignment no. 1 (Printing name in digonal)
-    ![Uploading Name Printing Program.png…]()
+    
+![Name Printing Program](https://user-images.githubusercontent.com/75375280/101759555-91aa6e00-3afb-11eb-84ec-d7f6ae758ca6.png)
+
+
     1) At first I have defined a function named foo().
     2) Then I created a list called name with each letter of a name separated with spaces so that I can print it in a digonal.
     3) Then I created a for loop:
@@ -19,7 +22,7 @@
     5) This program follows all PEP 8 rules.
 
 # Assignment no. 2 (Test Record)
-    ![Uploading Test Record Program.png…]()
+    
     1) First I created two different lists, namely list_of_records and marks_record.
     2) Then I created a while loop, here's what it contains:
             i) I created six variables inside the while loop which took output from user.
@@ -47,7 +50,10 @@
     NOTE: Keypoint that I learnt in this assignment was "How To Handle DATA".
 
 # Assignment no. 3 (Song Lyrics Program)
-    ![Uploading Song lyrics program.png…]()
+    
+![Song lyrics program](https://user-images.githubusercontent.com/75375280/101760134-4cd30700-3afc-11eb-8ada-7c6622d8f21c.png)
+
+
     1) First the built in time module is imported.
     2) Then a function named foo() which contains parameter called take_input is defined.
         i) Then a variable called lyrics is defined which will break parameter string into parts after every comma (, ) and will store those parts in a list.
